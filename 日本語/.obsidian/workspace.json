@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "a8fda157087d6b2e",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c968c94c4109bb1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cca4727b807ee42b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "84996249b8a7b436",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "人 - NHÂN.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "人 - NHÂN"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0770be189ef800ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "83354f8d50508df8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41395c2aef7f72c5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "85f20bac4c7c9230",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "66d6cf4de31d5d1e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "c24bcebf17a8bf09",
+    "type": "split",
+    "children": [
+      {
+        "id": "df596db047081bbe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0cbfb3f5ae97ae21",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "d24c3e7204849a86",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "36be8a3729dee980",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0ae275caa44cfb2f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "9d1adce42e3dc65d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "cca4727b807ee42b",
+  "lastOpenFiles": [
+    "Untitled.base",
+    "大 - ĐẠI.md",
+    "人 - NHÂN.md",
+    "一 - NHẤT.md",
+    "十 - THẬP.md",
+    "天 - THIÊN.md",
+    "太 - THÁI.md",
+    "人 - NHÂN 1.md",
+    "失 - THẤT.md",
+    "Các bộ thủ nhỏ lẻ/矢 - THỈ.md",
+    "Attachments/lost.webp",
+    "夭 - YÊU (YỂU).md",
+    "Hướng dẫn.md",
+    "本 - BẢN (BỔN).md",
+    "Các bộ thủ nhỏ lẻ/ノ - PHIỆT.md",
+    "Các bộ thủ nhỏ lẻ",
+    "犬 - KHUYỂN.md",
+    "木 - MỘC.md",
+    "央 - ƯƠNG.md",
+    "Attachments/book_base.webp",
+    "Attachments/Pasted image 20260507212905.jpg",
+    "Attachments/heaven.webp",
+    "夫 - PHU.md",
+    "Bộ 十",
+    "Attachments",
+    "Kanji.base",
+    "Bộ 大/Bộ 大.canvas",
+    "create a link.md",
+    "Bộ 大"
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "fe6abf29967da263",
+    "type": "split",
+    "children": [
+      {
+        "id": "12efc92932e299a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b59297687a3620b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Module 2/Quản lý Dịch vụ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Quản lý Dịch vụ"
+            }
+          },
+          {
+            "id": "76f38d1ccc17b559",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Module 2/Quản lý Sản phẩm.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Quản lý Sản phẩm"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2e3f00c4320d7066",
+    "type": "split",
+    "children": [
+      {
+        "id": "7fcf5a039b32fe0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29f69bcff713346b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "07e19acdce407177",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "331b9a57d2aa782c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "22c33afc357161f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3260d3d5dca486d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3079c3eea95c4667",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Module 2/Quản lý Dịch vụ.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Quản lý Dịch vụ"
+            }
+          },
+          {
+            "id": "7b15ff492524be20",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Module 2/Quản lý Dịch vụ.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Quản lý Dịch vụ"
+            }
+          },
+          {
+            "id": "e3b071325b6bac76",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2fec6f84526d04a1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "ec3f3c6009025fcd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Module 2/Quản lý Dịch vụ.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Quản lý Dịch vụ"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "b59297687a3620b9",
+  "lastOpenFiles": [
+    "Module 2/Quản lý Nhà cung cấp.md",
+    "Module 2/Quản lý Sản phẩm.md",
+    "Project Scope.md",
+    "Module 2/Quản lý Dịch vụ.md",
+    "DB.base",
+    "ERD.png",
+    "Module 2",
+    "Requirements.md",
+    "Pasted image 20260511212832.png",
+    "Supplier-Product.png",
+    "Pasted image 20260511212007.png",
+    "Welcome.md"
+  ]
+}

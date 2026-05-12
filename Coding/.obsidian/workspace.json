@@ -1,0 +1,251 @@
+{
+  "main": {
+    "id": "198977b8507a2fd3",
+    "type": "split",
+    "children": [
+      {
+        "id": "d02df070e8337d63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59291231e2f536ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/1. First Java Program.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. First Java Program"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e7df141ae8c460af",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f8bec7217af4272",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fe7037d4cb41c8a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9041c244f63794d5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "76527002b28455dd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "172af0ca62133f81",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb7b3c9bc2c6bcec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b15642387b6828d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Java/1. First Java Program.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1. First Java Program"
+            }
+          },
+          {
+            "id": "88c20e1015024beb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Java/1. First Java Program.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1. First Java Program"
+            }
+          },
+          {
+            "id": "35610a03e8473614",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ca490680c6a3facc",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "c56cd434c0abd813",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Java/1. First Java Program.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 1. First Java Program"
+            }
+          },
+          {
+            "id": "bb8dcc031af11717",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "59291231e2f536ae",
+  "lastOpenFiles": [
+    "Java/2. Flow Control Statement.md",
+    "Java/1. First Java Program.md",
+    "Java/1. First Java Program 1.md",
+    "Java/0. Roadmap.md",
+    "HTML & CSS/0. Frontend Basics.md",
+    "8_T-SQL-Stored-Procedures-and-Functions.pdf.md",
+    "5_Advanced-DML-Statements.pdf.md",
+    "Welcome.md",
+    "CODE Materials.base",
+    "HTML & CSS/4. Javascript.md",
+    "Java/3. Classes and Objects.md",
+    "SQL/6. SQL Built-in Functions.md",
+    "1_Entity-Relationship-Modelling.pdf.md",
+    "3_Table-Indexes-and-View.pdf.md",
+    "SQL/5. Advanced DML Statements.md",
+    "SQL/4. Basic DML Statements.md",
+    "SQL/3. Indexes and View.md",
+    "SQL/2. Giới thiệu về SQL và SQL Server.md",
+    "SQL/1. Giới thiệu về cơ sở dữ liệu.md",
+    "3_Classes-and-Objects.pdf.md",
+    "Spring/1. Spring MVC.md",
+    "Git/0. Git Roadmap.md",
+    "assets/image 52.png",
+    "assets/image 6.png",
+    "assets/image 7.png",
+    "assets/image 5.png",
+    "assets/image 3.png",
+    "assets/image 2.png",
+    "assets/image 1.png",
+    "assets/da2cc0fc-ac46-4104-97c2-48aa8ea85ab5.png",
+    "assets/ebe0f13c-2cde-4ee1-ad36-b4623e2b63bb.png",
+    "assets/image.png",
+    "Java/4. OOP Basic & Advanced Concepts.md",
+    "HTML & CSS/1. HTML.md",
+    "Java/6. Collections Framework.md",
+    "Git",
+    "HTML & CSS",
+    "Java/10. Basic JUnit Testing.md",
+    "SQL/8. USP & UDF.md",
+    "Notion/1_Entity-Relationship-Modelling.pdf",
+    "Notion/8_T-SQL-Stored-Procedures-and-Functions.pdf",
+    "Notion/8_Lambda-expressions-and-Functional-interfaces.pdf",
+    "Notion/9_Java-Exception-Handling.pdf",
+    "SQL",
+    "Spring",
+    "Notion/CODE Materials/CODE Materials.base"
+  ]
+}
