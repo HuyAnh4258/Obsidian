@@ -7,8 +7,10 @@ Obsidian Notes for Flutter - Dart
 3. Obsidian
 
 # Installation Guide
-1. Install Obsidian
-2. Storing the repo:
-2.1. Create a folder named 'Obsidian' at desired location.
-2.2. Open terminal at the folder, run: git init
-2.3. After initialization, proceed to clone this repo
+1. Storing the repo:
+- Create a folder named 'Obsidian' at desired location.
+- Open terminal at the folder, run: git init
+- Proceed to clone this repo with: git clone <repo-url>
+2. Setup Obsidian:
+- Use Obsidian to locate your vault.
+- Check if you have 'Obsidian Git' plugin installed. It should have been installed within this repo, but if not, install it from the Community Plugin section.
