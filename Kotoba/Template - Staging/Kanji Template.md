@@ -1,0 +1,13 @@
+#kanji
+
+| Hán Việt   | Bộ   | Số nét   | Âm On   | Âm Kun   |
+| ---------- | ---- | -------- | ------- | -------- |
+| (Hán Việt) | (Bộ) | (Số nét) | (Âm On) | (Âm Kun) |
+
+#### Nghĩa:
+- (Ý nghĩa cơ bản)
+
+#### Từ vựng liên quan:
+
+
+#### Câu ví dụ:

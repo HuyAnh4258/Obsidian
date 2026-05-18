@@ -4,24 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "59f3799cb727aca4",
+        "id": "e2d5a75a7eecf347",
         "type": "tabs",
         "children": [
           {
-            "id": "807650181e3865d3",
+            "id": "5058335ebb077d2a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "9e2c10f6f626e72d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/2. Dart Essentials.md",
+                "file": "Git Workflow Cheatsheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Dart Essentials"
+              "title": "Git Workflow Cheatsheet"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FlutterDB.base",
+                "file": "Concepts/2. Dart Essentials.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of FlutterDB"
+              "title": "Outline of 2. Dart Essentials"
             }
           },
           {
@@ -176,11 +187,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 313.5
+    "width": 313.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,9 +207,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "807650181e3865d3",
+  "active": "9e2c10f6f626e72d",
   "lastOpenFiles": [
+    "repo-src.png",
+    "Git Workflow Cheatsheet.md",
+    "Concepts/4. Flutter UI Fundamentals.md",
+    "Intro.md",
+    "4. Flutter UI Fundamentals.md",
+    "4..md",
     "Concepts/2. Dart Essentials.md",
+    "Meta/FlutterDB.base",
+    "Notes/Flutter Dashboard.md",
+    "Concepts/3. Advanced Dart.md",
+    "Slides/~$Module3_Advanced_Dart.pptx",
     "Concepts/1. Introduction to Flutter.md",
     "Concepts/1.1. Introduction to Dart.md",
     "Labs/8. API-powered List Screen Lab.md",
@@ -205,7 +227,6 @@
     "Labs/2. Dart Essentials Practice.md",
     "Labs/1. Set up and Demo.md",
     "FlutterDB.base",
-    "Notes/Flutter Dashboard.md",
     "Meta/Widget Template.md",
     "Meta/Lab Template.md",
     "Meta/Concept Template.md",
@@ -217,12 +238,6 @@
     "Concepts/9. Local Storage & Persistence.md",
     "Concepts/8. Working with RESTful APIs & JSON.md",
     "Concepts/7. Forms and Validation.md",
-    "Concepts/7. Forms & Validation.md",
-    "Concepts/6. Responsive UI.md",
-    "Concepts/6. Responsive UI & Adaptive Layouts.md",
-    "Concepts/5. Navigation & State Management.md",
-    "Concepts/4. UI Fundamentals.md",
-    "Concepts/4. Flutter UI Fundamentals.md",
     "Meta",
     "Slides",
     "Notes",
@@ -230,8 +245,6 @@
     "Concepts",
     "99 - Meta/Bases/FlutterDB.base",
     "01 - Concepts/Data",
-    "02 - Practice/Labs/Lab 1_Setting Up Flutter and Running Your First App.docx",
-    "02 - Practice/Labs/LAB 12_Performance Optimization & App Deployment.docx",
     "Images/Lab1-Demo-Image.png",
     "Images/Lab1-Demo-Code.png"
   ]
